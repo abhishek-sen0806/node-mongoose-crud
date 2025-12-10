@@ -83,7 +83,7 @@ node-demo/
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/abhishek-sen0806/node-mongoose-crud.git
    cd node-demo
    ```
 
@@ -288,3 +288,4 @@ CMD ["npm", "start"]
 ## 📄 License
 
 This project is licensed under the ISC License.
+
